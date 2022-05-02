@@ -11,7 +11,7 @@
 ### 🤔 About
 -  **Working :**  Software Development Engineer | Tech lead  :computer: 
 -  **Learning :** Cloud | Architecture | Management ♾️
--  **Hobbies :** Books :books: | Music :headphones: | Beach 🏖️
+-  **Hobbies :** Books :books: | Music :headphones: | Beach 🏖️ | Motorcycle 🏍️
 -  **Ask me about :** Solutions, i have a lot of them
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
