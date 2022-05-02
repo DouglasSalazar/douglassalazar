@@ -9,7 +9,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🤔 About
--  **Working :**  Development | Tech lead  :computer: 
+-  **Working :**  Software Development Engineer | Tech lead  :computer: 
 -  **Learning :** Cloud | Architecture | Management ♾️
 -  **Hobbies :** Books :books: | Music :headphones: | Beach 🏖️
 -  **Ask me about :** Solutions, i have a lot of them
